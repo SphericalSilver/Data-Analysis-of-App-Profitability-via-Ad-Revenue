@@ -26,7 +26,7 @@ Since our end goal is to have our apps up on both markets, we want to be looking
 - We observed that apps in google playstore related to entertainment genres, like gaming, were immensely popular. This was a bit less of true of the iOS store. 
 - We also verified that this was the case by looking at apps in terms of ratings. 
 - When looking at communication apps, social network apps, and navigation apps, we realized that the average number of installs was being skewed immensely by very popular giants like WhatsApp, Google Maps, and Facebook. This needed to be kept in mind to avoid mistakenly thinking a category was more popular than it really was.
-- Used lower quartile and median popularities to determine which markets might be harder or easier to break into (for instance we want to avoid competing against well-established giants like Whatsapp or Facebook).
+- Used lower quartile and median popularities to determine which markets might be harder or easier to break into (also partly so we avoid competing against established giants like WhatsApp or Facebook).
 
 ## Conclusion
 
@@ -34,6 +34,6 @@ In the end, we arrived at the conclusion that due to fitness apps (especially re
 
 Since weight loss (i.e. body fat reduction) is a very significant part of body-building, especially for someone who just casually trains, hoping to achieve abs and some more defined musculature, it might be an extremely good idea to market a way of losing weight through an avenue that people enjoy, i.e. sports. This kind of app would likely do well in both the Google Play and App Stores, which is exactly what our company intends to do.
 
-Furthermore, **fitness and sports-related aps often feature advertisements that sell things like nutrition and weight loss supplements. Because people interested in improving their health also tend to seek out these supplements to help them reach their goals quicker, the advertisements we place in our ads would have a very high click rate, thus generating higher revenue**.
+Furthermore, **fitness and sports-related aps often feature advertisements that sell things like nutrition and weight loss supplements**. Because people interested in improving their health also tend to seek out these supplements to help them reach their goals quicker, **the advertisements we place in our ads would have a very high click rate, thus generating higher revenue**.
 
 The app should be something that sells an approach to weight loss through very accessible and enjoyable means. An appropriately sensationalistic slogan like "lose weight doing what you love!" is also bound to grab attention very quickly might also be something that would go well with the app.
