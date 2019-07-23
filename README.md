@@ -15,7 +15,7 @@ Metrics such as the following were acquired from datasets containing info on Goo
 
 ## Data-Cleaning
 - Because we were only interested in free apps, the dataframe had to be simplified to exclude apps with a cost.
-- Data that wass incorrect or duplicate also had to be pruned out of the tables.
+- Data that was incorrect or duplicate also had to be pruned out of the tables.
 - Removed apps in languages other than English. The numbers corresponding to the characters we commonly use in an English text are all in the range 0 to 127, according to the ASCII (American Standard Code for Information Interchange) system. Based on this number range, we built a function that detects whether a character belongs to the set of common English characters or not. If the number is equal to or less than 127, then the character belongs to the set of common English characters. We used this to identify non-English characters in App names.
 - To avoid incorrectly excluding English apps that happened to use emojis or special characters (like ™ or 😜), we set a threshold allowance of 3 non-english characters.
 - Visually previewed the removed apps to verify most of the removed ones were non-English.
