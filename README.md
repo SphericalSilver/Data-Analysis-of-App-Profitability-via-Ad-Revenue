@@ -1,4 +1,4 @@
-# Data-Analysis-of-App-Profitability-via-Ad-Revenue
+# Data Analysis of App Profitability via Ad Revenue
 
 In this project, data pertaining to apps downloaded on Google Play and App Store was dissected and analyzed to ascertain **what kind of free apps might be best to make for a company that generated the entirety of their revenue from in-app advertisements**.
 
