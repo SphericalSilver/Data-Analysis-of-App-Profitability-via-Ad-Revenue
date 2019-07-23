@@ -25,8 +25,8 @@ Since our end goal is to have our apps up on both markets, we want to be looking
 
 - We observed that apps in google playstore related to entertainment genres, like gaming, were immensely popular. This was a bit less of true of the iOS store. 
 - We also verified that this was the case by looking at apps in terms of ratings. 
-- When looking at communication apps, social network apps, and navigation apps, we realized that the average number of installs was being skewed immensely by very popular giants like WhatsApp, Google Maps, and Facebook. This needed to be kept in mind to avoid mistakenly thinking a category was more popular than it really was.
-- Used lower quartile and median popularities to determine which markets might be harder or easier to break into (also partly so we avoid competing against established giants like WhatsApp or Facebook).
+- When looking at communication apps, social network apps, and navigation apps, we realized that the **average number of installs was being skewed immensely by very popular giants like WhatsApp, Google Maps, and Facebook.** This needed to be kept in mind to avoid mistakenly thinking a category was more popular than it really was.
+- **Used lower quartile and median popularities to determine which markets might be harder or easier to break into** (also partly so we avoid competing against established giants like WhatsApp or Facebook).
 
 ## Conclusion
 
